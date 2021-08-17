@@ -10,4 +10,6 @@ This is likely AVX2 `_savx2`, and almost certainly SSE2 `_s128`.
 
 ## Status
 
-Binaries are only available for OSX currently; we hope to have this addressed in the next few days.
+v2.0.4 - present for both linux and osx. See `linux/` and `/osx` folders for specific versions.
+
+We will update this with a list of statically-compiled binaries as development continues.
