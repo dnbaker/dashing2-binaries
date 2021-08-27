@@ -10,6 +10,8 @@ This is likely AVX2 `_savx2`, and almost certainly SSE2 `_s128`.
 
 ## Status
 
-v2.0.4 - present for both linux and osx. See `linux/` and `/osx` folders for specific versions.
+v2.0.4 - First 2.0 version.
+v2.1.0 - First 2.1 version. We recommend v2.1.1
+v2.1.1 - OSX available, Linux in process
 
-We will update this with a list of statically-compiled binaries as development continues.
+We will continue to update this with a list of statically-compiled binaries.
