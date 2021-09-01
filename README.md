@@ -13,7 +13,7 @@ To fully benefit from these, you would use `dashing2_s512` or `dashing2_s512bw`.
 ## Status
 
 v2.0.4 - First 2.0 version. OSX + Linux.
-v2.1.0 - First 2.1 version. OSX + Linux We recommend v2.1.1 over this release, which makes unnecessary small files.
+v2.1.0 - First 2.1 version. OSX + Linux
 v2.1.1 - OSX + Linux
-
-We will continue to update this with a list of statically-compiled binaries.
+v2.1.2 - Bug fix release, skipped in favor of 2.1.3
+v2.1.3 - OSX + Linux, improved memory management
