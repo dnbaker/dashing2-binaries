@@ -17,3 +17,7 @@ v2.1.0 - First 2.1 version. OSX + Linux
 v2.1.1 - OSX + Linux
 v2.1.2 - Bug fix release, skipped in favor of 2.1.3
 v2.1.3 - OSX + Linux, improved memory management
+v2.1.5 - Linux available; OSX in process. Faster formatting and better hashing.
+
+
+We will continue to update this with a list of statically-compiled binaries.
