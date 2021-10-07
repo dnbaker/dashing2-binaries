@@ -8,7 +8,9 @@ For each of these, there are versions for SSE2, AVX, AVX2, AVX512F, and AVX512BW
 For Intel CPUs, simply select the version compiled for your hardware.
 This is commonly AVX2 `_savx2`, and almost certainly SSE2 `_s128`.
 Recent hardware with AVX512F and AVX512, such as Knight's Landing, Sky Lake, or Coffee Lake, use newer vectorized operations where available.
-To fully benefit from these, you would use `dashing2_s512` or `dashing2_s512bw`.
+To fully benefit from these, you would use `dashing2_s512` (for KNL) or `dashing2_s512bw` (for Skylake/CoffeeLake).
+
+We will continue to update this with a list of statically-compiled binaries.
 
 ## Status
 
@@ -17,7 +19,6 @@ v2.1.0 - First 2.1 version. OSX + Linux
 v2.1.1 - OSX + Linux
 v2.1.2 - Bug fix release, skipped in favor of 2.1.3
 v2.1.3 - OSX + Linux, improved memory management
-v2.1.5 - Linux + Linux; OSX in process. Faster formatting, better hashing, and differently-parallelized linear-time clustering.
+v2.1.5 - OSX + Linux. Faster formatting, better hashing, and differently-parallelized linear-time clustering.
+v2.1.6 - OSX + Linux. Corrections/speedups to KNN/similarity-thresholded graph generation.
 
-
-We will continue to update this with a list of statically-compiled binaries.
