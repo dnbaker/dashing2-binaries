@@ -23,3 +23,4 @@ v2.1.5 - OSX + Linux. Faster formatting, better hashing, and differently-paralle
 v2.1.6 - OSX + Linux. Corrections/speedups to KNN/similarity-thresholded graph generation.
 v2.1.7 - OSX + Linux. Add fasta-output for --parse-by-seq deduplication (--greedy).
 v2.1.8 - OSX + Linux. Add support for direct sketching in SetSketch with pre-selected parameters. (via --setsketch-ab \<a,b\> --fastcmp \<nb\>, or --fastcmp-{bytes,shorts,words,nibbles})
+v2.1.13 - OSX + Linux. Bug fixes and update hash map.
