@@ -27,3 +27,8 @@ v2.1.13 - OSX + Linux. Bug fixes and update hash map.
 v2.1.14 - OSX + Linux. Bug fixes!
 v2.1.15 - OSX + Linux. Bug fixes!
 v2.1.16 - OSX + Linux. Bug fixes, small clean ups. Bump to c++20.
+
+
+### Notes
+
+Warning: v2.1.14 has a known performance regression with erroneous logging. We highly recommend avoiding it. v2.1.15 and later do not have this issue.
