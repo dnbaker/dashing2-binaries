@@ -27,6 +27,7 @@ v2.1.13 - OSX + Linux. Bug fixes and update hash map.
 v2.1.14 - OSX + Linux. Bug fixes!
 v2.1.15 - OSX + Linux. Bug fixes!
 v2.1.16 - OSX + Linux. Bug fixes, small clean ups. Bump to c++20.
+v2.1.17 - OSX + Linux. Bug fix: --parse-by-seq with packed truncated registers.
 
 
 ### Notes
