@@ -28,6 +28,7 @@ v2.1.14 - OSX + Linux. Bug fixes!
 v2.1.15 - OSX + Linux. Bug fixes!
 v2.1.16 - OSX + Linux. Bug fixes, small clean ups. Bump to c++20.
 v2.1.17 - OSX + Linux. Bug fix: --parse-by-seq with packed truncated registers.
+v2.1.18 - OSX up; Linux in progress. Reduce memory requirements for --parse-by-seq.
 
 
 ### Notes
