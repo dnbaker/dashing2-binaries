@@ -28,9 +28,11 @@ v2.1.14 - OSX + Linux. Bug fixes!
 v2.1.15 - OSX + Linux. Bug fixes!
 v2.1.16 - OSX + Linux. Bug fixes, small clean ups. Bump to c++20.
 v2.1.17 - OSX + Linux. Bug fix: --parse-by-seq with packed truncated registers.
-v2.1.18 - OSX up; Linux in progress. Reduce memory requirements for --parse-by-seq.
+v2.1.18 - OSX up; Skipping linux upload. Skip this release.
+v2.1.19 - OSX + Linux.
 
 
 ### Notes
 
 Warning: v2.1.14 has a known performance regression with erroneous logging. We highly recommend avoiding it. v2.1.15 and later do not have this issue.
+         v2.1.18 has an error in --parse-by-seq mode due to the new memory-reducing implementation. This is fixed in v2.1.19.
